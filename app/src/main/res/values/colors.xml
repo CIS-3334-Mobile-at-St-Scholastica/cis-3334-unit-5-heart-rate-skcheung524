@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="v02max">#f20621</color>
+    <color name="anaerobic">#ff8c40</color>
+    <color name="aerobic">#ffc340</color>
+    <color name="weightcontrol">#ffe240</color>
+    <color name="moderateactivity">#ede794</color>
 </resources>
